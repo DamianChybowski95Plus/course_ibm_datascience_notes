@@ -1,0 +1,12 @@
+Membership No  Date Joined  Active  
+    52364      2019-7-9     no    
+    65136      2018-11-6    no    
+    94934      2018-6-7     no    
+Membership|No||Date|Joined||Active||
+76955	2018-3-22	no	
+85947	2018-6-21	no	
+65791	2020-8-4	no	
+85500	2020-7-18	no	
+63366	2017-8-4	no	
+36867	2018-1-25	no	
+37881	2017-11-15	no	
